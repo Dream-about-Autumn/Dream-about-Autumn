@@ -1,0 +1,4 @@
+- DA, a college student at OUC who is interested in writing codes about games. (Including calculating tools)
+- Currently learning: Discrete Mathematics, Linear Algebra, Probability Statistics, Digital Logic, Computer Systems (basic)
+- Poor in & Wish to improve: Advanced Mathematics, Sports
+- Contact: zongyang.liu@stu.ouc.edu.cn
